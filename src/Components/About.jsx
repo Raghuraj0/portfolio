@@ -35,7 +35,9 @@ const skillsList = [
   "User experience",
   "Machine Learning",
   "Android Devlopment",
-  "Mobile user interfaces",
+  "Deep Learning",
+  "Cloud Computing",
+  "Data Science"
   
 ];
 
